@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "babel": "babel"
+    "rollup": "rollup -c"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,7 @@
     "babel": "^6.23.0",
     "babel-preset-stage-2": "^6.24.1",
     "rollup": "^0.43.0",
-    "rollup-plugin-babel": "^2.7.1"
+    "rollup-plugin-babel": "^2.7.1",
+    "rollup-plugin-node-resolve": "^3.0.0"
   }
 }
