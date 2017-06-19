@@ -1,0 +1,23 @@
+{
+  "name": "create-json",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "babel": "babel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rchaser53/createTsJson.git"
+  },
+  "author": "rchaser53",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rchaser53/createTsJson/issues"
+  },
+  "homepage": "https://github.com/rchaser53/createTsJson#readme",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-preset-stage-2": "^6.24.1"
+  }
+}
